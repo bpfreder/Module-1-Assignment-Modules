@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "customerName": "Jack Smith",
+    "phoneNumber": "(303)217-8922",
+    "address": "12345 Spinning Circle",
+    "loanAmount": 250,
+    "interest": 0.06,
+    "loanTermYears": 4,
+    "loanType": "Car",
+    "description": "2014 Toyota Prius C"
+  },
+  {
+    "id": 1,
+    "customerName": "Johnny Appleseed",
+    "phoneNumber": "(808)345-8903",
+    "address": "8008 Hawaii Lane",
+    "loanAmount": 1000,
+    "interest": 0.10,
+    "loanTermYears": 1,
+    "loanType": "Business Loan",
+    "description":  "Loan granted as bank investment for techonology startup company"
+  },
+  {
+    "id": 2,
+    "customerName": "Kevin James",
+    "phoneNumber": "(915)678-1572",
+    "address": "4200 Cherry Pine Dr",
+    "loanAmount": 400,
+    "interest": 0.03,
+    "loanTermYears": 5,
+    "loanType": "Car",
+    "description": "2023 Toyota RAV 4" 
+  },
+  {
+    "id": 3,
+    "customerName": "Juan Rodriguez",
+    "phoneNumber": "(719) 372-8167",
+    "address": "2220 E Outer Ave",
+    "loanAmount": 1500,
+    "interest": 0.05,
+    "loanTermYears": 30,
+    "loanType": "Home Mortgage",
+    "description": "30 year mortgage for house purchase"
+  },
+  {
+    "id": 4,
+    "customerName": "Linda Campbell",
+    "phoneNumber": "(909)281-1283",
+    "address": "1000 Camp St",
+    "loanAmount": 1250,
+    "interest": 0.07,
+    "loanTermYears": 20,
+    "loanType": "Home Mortgage",
+    "description": "20 year mortgage for house purchase"
+  }
+]
